@@ -18,7 +18,7 @@ some results in the following context.
 :--------------------:|:--------------------:
  ![](output/map0.png) | ![](output/map1.png) 
  ![](output/map5.png) | ![](output/map6.png) 
- ![](output/map7.png) | ![](output/map7.png) 
+ ![](output/map7.png) | ![](output/map8.png) 
 
 # Installation
 
