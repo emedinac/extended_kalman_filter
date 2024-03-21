@@ -32,8 +32,9 @@ Unfortunately, I cannot share the data from KITTI. But this is easy to get onlin
 
 Just run the command.
 
-* `python main.py --path="/home/eme/Projects/data/KITTI-IMU/" --idx="7"`
+* `python main.py --path="path/to/data/KITTI-IMU/" --idx="7"`
 
+data here is mainly *.txt :)
 # TODO
 
 - [ ] Improve visualization in Folium to show the map visualization properly.
