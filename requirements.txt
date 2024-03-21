@@ -1,0 +1,10 @@
+numpy
+matplotlib
+pandas
+PyQt5
+pymap3d
+networkx
+osmnx
+folium
+geopandas
+mapclassify
