@@ -64,10 +64,5 @@ if __name__ == "__main__":
     parser.add_argument('--plot-map', action='store_true')  # on/off flag
     args = parser.parse_args()
     main(args.path, int(args.idx), args.plot_map)
-    main(args.path, int(0), args.plot_map)
-    main(args.path, int(1), args.plot_map)
-    main(args.path, int(5), args.plot_map)
-    main(args.path, int(6), args.plot_map)
-    main(args.path, int(7), args.plot_map)
-    main(args.path, int(8), args.plot_map)
+    # main(args.path, int(0), args.plot_map)
 
